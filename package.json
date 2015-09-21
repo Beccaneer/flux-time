@@ -1,0 +1,25 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "Test",
+  "main": "dist/bundle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zak Thompson",
+  "license": "ISC",
+  "dependencies": {
+    "flux": "^2.1.1",
+    "json-loader": "^0.5.3",
+    "lodash": "^3.10.1",
+    "moment": "^2.10.6",
+    "moment-timezone": "^0.4.0",
+    "react": "^0.13.3",
+    "react-transitive-number": "^1.1.0"
+  },
+  "devDependencies": {
+    "babel-core": "^5.8.24",
+    "babel-loader": "^5.3.2",
+    "webpack": "^1.12.2"
+  }
+}
